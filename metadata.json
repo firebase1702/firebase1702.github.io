@@ -1,0 +1,7 @@
+{
+  "name": "Digital Logbook",
+  "description": "A modern, minimalist digital logbook for industrial operators featuring AI-assisted reporting, SOP guidance, and real-time dashboard analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
